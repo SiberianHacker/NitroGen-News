@@ -1,0 +1,145 @@
+NoPlayerCollision:Disables triggering with players
+FlyCheckAntiKick: You will not be kicked for a long flight (You can use it together with FlyHack)
+CrasherVersions:Crusher for servers, crasher for Q
+FastPlace/Break: needs no introduction
+LegitScreenshot: Take screenshots without reading
+SuperKnockBack: Simulates acceleration for a kick.
+EntityFly/Speed:Fly on boats or mobs
+SwingAnimations:Animations for hands
+StorageESPHack: Renders chests, stoves, bakeries
+HologramSpamer: Hologram spammer.
+AlwaysSneaking: Makes you always crouched.
+AutoArmorHack:Automatically equips armor
+MurderMystery:Cheat for MurderMystery
+BarrierRender:Renders barriers
+IgnoreManager: Ignores players in chat/world
+ShadowLaggFix: Fixes lag from shadows (on a platform in the sky)
+ShulkerViewer:You can view shulker traditions in your inventory
+AntiKnockBack:Anti-kickback
+AlwaysJumping: Makes you always jumping.
+ChunkAnimator: Animates the spawn of chunks in the world
+TranslateChat: Encrypts your messages with translit, social security should also have it turned on.
+HackCommands: hack commands
+StrangeJumps:Strange Jumps
+RegionRender:Renders a hatchet selection on the server
+MoveRepeater: Repeater of packets/moves recorded on MoveWriter.
+WClickExploit:Multiplies clicks on an item in a chest
+FakeBlockFly:You are wearing a fake scaffold
+SchemBuilder: Allows you to build schematics
+Trajectories:Draws a trajectory for thrown items
+ChestStealer:Automatically takes resources from the chest/shulker
+AlwaysMining: Makes you always mining.
+Korobka-ESP: Shows players with a box
+Clan Inviter: Invites everyone to the clan (/clan invite nickname)
+LaggSpammer:Spams with laggy text
+GsonCrasher:Description
+InvMoveHack:You can walk with your inventory open (without going around)
+ExtremeAura: Reworked killaura from the ExtremeHack B13 cheat
+ChitKrutilka: Players see you walking and spinning!
+AutoParkour: Automatically parkour in the sky (creative recommended)
+LSD_Display:Rainbow World
+PhaseNoClip:Allows you to walk through walls
+NameProtect: Replaces your nickname with the one you specify .np nickname
+AntiDolbaeb: Removes you from the head of the idiot automatically
+ItemPhysics: Drop items now have physics!
+SkinStealer: Steals skins from all players
+Combination:Remembers combinations in the tarkade
+NoComCrash: Crash the old PaperSpigot kernel, method with 2b2t
+AutoDristal: Automatically removes salt crystals
+ManyChunks:Won't ship chunks for fucking cooling.
+RideAllEnts: Allows you to sit on any mob (visually) and move behind it.
+LiteAntiBot:Lite antibot for kilaura
+ChatBypass: Allows swearing and changes chat font
+AntiExploit: Prevents client crashes and exploitation of vulnerabilities
+BrightHack:FullBright and not a word more
+SprintHack:Sprint module
+PlugFinder: Search for plugins on the server
+MileyCyrus: Ass twitching
+AutoGapple:Automatically eats an apple at a certain amount of HP
+MegaStrafe: Pa fanu, spins around the player
+NameDetect:Checks for player mode changes on the server
+AntiHunger: Slows down hunger
+TriggerBot: Trigger on players, if the cursor is on the player, the bot will hit
+MoveWriter: Record movements, parkour, etc.
+AuthBruter:AuthMe Bruteforcer
+AutoRclick: (Auto PKM from old extreme games) Right-click
+AntiPalevo: If the target has entered the server, you will be warned or kicked out (configurable)
+BowExploit: Increases bow damage by 10,000 times (use with Fastbow)
+AntiCactus:Does not allow you to touch the cactus
+Platformer: Builds a platform under the player using blocks from the hand (Vanilla)
+AutoElytra: Automatically turns on elytra if the player is in the air.
+ModifyChat: Modifies the chat
+HUD-Array: Hack overlay on the game screen
+SpeedHack: Cheat to run fast
+AntiPortal:Disables chat so that the minigame portal does not work (binding is recommended)
+AntiPotion: Removes bad potion effects.
+NoOpenGui: Closes the chest gui automatically
+NoHurtCam: Now the camera does not twitch when damaged
+FastSneak: Players see that you are in sneaking
+Excavator: Digs at specified positions
+HideNHack: Cheat for hide and seek, renders blocks + those that are permanent
+UsersChat: Client user chat
+AutoTotem:Automatically places a totem in your left hand
+BowAimbot:Automatically aims a bow at the player
+FakeBuild:You can build in private, but it's fake
+Binocular: When Zoom is activated, you can zoom in and out using the mouse wheel.
+ModifyTAB: Modifies the TAB list of players
+MiddleCMD: Sends a command when the mouse wheel is pressed. #p - player on the cursor.
+ElytraFly: Elytra management cheat
+AntiWater: Disables swimming in water
+NameTags:Draws player names through walls
+NoRender: Disables certain renders
+FakeLagg: Simulates lags.
+FPVDrone: Allows you to become an FPV drone, pure and simple
+HoloSpam: Spawns a lot of holograms with the command /hd create (for op)
+AirSpeed: Increases speed while the player is in the air.
+Switcher: Moves hotbar slots automatically
+ChatCalc:Automatically calculates tasks in chat
+SafeWalk: Prevents you from tripping and falling off the block
+AutoFish: Automatically hooks the fishing rod.
+ChinaHat:Chinese hat on head
+LiftHack:Elevator (takes you up)
+Sraffold: Regular old scaffold for old ACs
+Tracers: Draws stripes towards players from the center of the screen
+HandJob: Fiddles with his hands (air)
+FreeCam: You can fly and watch like a spectator
+Dropper:You throw a lot of drops
+MobAura: Punching mobs
+Parkour: Jumps off the edge of a block
+Spammer: Cool spammer from old versions of ExtremeHack
+Ludojop: Lunokhod module (low gravity)
+DickESP:Draws large leather cones for players
+FastBow: Shoot your bow quickly
+FlyHack: Gives flight
+MixGame: Runs to the desired color
+TLSkins:Gives players skins from the launcher
+FastUse: Speeds up item use by 3 times
+AutoBow:Automatically releases the bow if it is aimed at a person
+BotsGui:Opens the bot control panel
+MiniMap: Draws a minimap on the screen
+ItemESP:Displays drops through walls
+AntiBan: Automatically disables dangerous modules.
+Clicker: Clicks when the mouse button is held down
+Payeer: Throws money to everyone
+BedESP: Clearance of beds through walls
+XCarry: Allows you to put an item in the crafting menu
+FakeGM:Changes game mode
+MobESP: Clearing mobs through blocks
+Flexer:You can shine your armor (with creativity)
+Walker: Walks from corner to corner
+Spider: What is a cheat without a spider?
+NoFall:Vanilla No Fall
+AIChat: Chat module, replies to messages with a question mark
+Valdis:Allows you to copy items on the player using /gm 1
+Strafe: Player control without initial overclocking
+Prefix: Allows you to set the message prefix
+AimBot:Automatically aiming
+Regen: Regen for vanilla
+Jezuz:Can run on water
+Nuker: Destroys blocks around him!
+Tower: Places blocks under itself and jumps
+Timer: Speeds up game time
+Derp:You're shaking your head wildly!
+XRay: Normal clearance through blocks to see something
+Step:Lowers the threshold for climbing blocks
+GUI: Opens the menu you currently see
