@@ -1,6 +1,6 @@
 NoPlayerCollision:Disables triggering with players
 FlyCheckAntiKick: You will not be kicked for a long flight (You can use it together with FlyHack)
-CrasherVersions:Crusher for servers, crasher for Q
+CrasherVersions: Crasher for servers, crasher for Q
 FastPlace/Break: needs no introduction
 LegitScreenshot: Take screenshots without reading
 SuperKnockBack: Simulates acceleration for a kick.
@@ -53,6 +53,7 @@ ChatBypass: Allows swearing and changes chat font
 AntiExploit: Prevents client crashes and exploitation of vulnerabilities
 BrightHack:FullBright and not a word more
 SprintHack:Sprint module
+DiscordRPC: Official Discord Rich Presence, gives your profile in DS gaming activity.
 PlugFinder: Search for plugins on the server
 MileyCyrus: Ass twitching
 AutoGapple:Automatically eats an apple at a certain amount of HP
