@@ -40,7 +40,6 @@ AutoParkour: Automatically parkour in the sky (creative recommended)
 LSD_Display:Rainbow World
 PhaseNoClip:Allows you to walk through walls
 NameProtect: Replaces your nickname with the one you specify .np nickname
-AntiDolbaeb: Removes you from the head of the idiot automatically
 ItemPhysics: Drop items now have physics!
 SkinStealer: Steals skins from all players
 Combination:Remembers combinations in the tarkade
