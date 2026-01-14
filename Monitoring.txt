@@ -7,4 +7,8 @@ mc.magicWorld.pw-Всратость3
 mc.nicetime.fun-Всратость4
 mc.cuteworld.pw-Всратость5
 mc.cloudworld.pw-Всратость6
-mc.novusmine.ru-Школосервер,плохая_защита,ад1мин_школьник
+mc.novusmine.ru-Школосервер,плохая_защита,админ_школьник
+mc.stilegrief.fun-Школосервер,лёгкий_запуск_ботов
+mc.crystalcraft.pro.-nAntibot,школосервер
+135.181.170.88:25704-AuthMe_Antibot
+top.serverjoin.ru:25565-Sonar_Antibot
