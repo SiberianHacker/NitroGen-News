@@ -7,4 +7,4 @@ mc.magicWorld.pw-Всратость3
 mc.nicetime.fun-Всратость4
 mc.cuteworld.pw-Всратость5
 mc.cloudworld.pw-Всратость6
-mc.novusmine.ru-Школосервер,плохая_защита,админ_школьник
+mc.novusmine.ru-Школосервер,плохая_защита,ад1мин_школьник
