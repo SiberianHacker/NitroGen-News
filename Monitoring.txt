@@ -1,13 +1,13 @@
 mc.sunnyforce.fun-Школосервер
 188.245.238.107:25565-Анархия,Креатив
 3b3t.org-Анархия,Выживание
+185.219.84.43:22010-Школосервер,админ_школьник
 play.crafterrium.com-ФейкОнлайн
 mc.riddleworld.ru-Всратость1
 mc.magicWorld.pw-Всратость3
 mc.nicetime.fun-Всратость4
 mc.cuteworld.pw-Всратость5
 mc.cloudworld.pw-Всратость6
-185.219.84.43:22010-Школосервер,админ_школьник
 mc.novusmine.ru-Школосервер,плохая_защита,админ_школьник
 mc.stilegrief.fun-Школосервер,лёгкий_запуск_ботов
 mc.crystalcraft.pro.-nAntibot,школосервер
